@@ -3,7 +3,7 @@
 The Superior Lisp Interaction Mode for Emacs
 
 |---------+--------------------------------------------------------------------|
-| source  | file:https://github.com/slime/slime/archive/refs/tags/v2.30.tar.gz |
+| source  | file:https://github.com/slime/slime/archive/refs/tags/v2.31.tar.gz |
 | version | 2.31                                                               |
 | systems | swank                                                              |
 |---------+--------------------------------------------------------------------|
